@@ -2,4 +2,4 @@
 Google Ads/Admob extensions for Turnbase RPG (Backend side)
 
 ## How to setup
-Extract this to your service → extensions folder, that is it :P
+Extract `index.php` to `{your service folder}/extensions/{any folder name as you wish}`, that is it :P
